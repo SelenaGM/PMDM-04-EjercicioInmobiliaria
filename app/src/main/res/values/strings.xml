@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PMDM-04-EjercicioInmobiliaria</string>
+    <string name="direccion">Direccion</string>
+    <string name="numero">Nº</string>
+    <string name="ciudad">Ciudad</string>
+    <string name="provincia">Provincia</string>
+    <string name="cp">C.P</string>
+
+</resources>
