@@ -60,6 +60,7 @@ public class AddPisoActivity extends AppCompatActivity {
         Float valoracion = binding.rbValoracionAddPiso.getRating() ;
         
         return new Piso(binding.txtDireccionAddPiso.getText().toString(),numero ,
-                binding.txtCiudadAddPiso.getText().toString(), binding.txtProvinciaAddPiso.getText().toString(),binding.txtCpAddPiso.getText().toString(),valoracion);
+                binding.txtCiudadAddPiso.getText().toString(), binding.txtProvinciaAddPiso.getText().toString(),
+                binding.txtCpAddPiso.getText().toString(),valoracion);
     }
 }
